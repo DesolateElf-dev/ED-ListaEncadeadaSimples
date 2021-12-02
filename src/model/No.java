@@ -34,5 +34,4 @@ public class No {
 	public void setCauda(No cauda) {
 		this.cauda =  cauda;
 	}
-
 }
